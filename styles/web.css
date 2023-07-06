@@ -1,6 +1,11 @@
 div{
-    background-color: tomato;
+    background-color: hsl(197, 41%, 97%);
     padding: 15px;
     border-radius: 10px;
     margin: 10px;
+    opacity: .6;
+}
+body{
+   
+    background-size: cover;
 }
